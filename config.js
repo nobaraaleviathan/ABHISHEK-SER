@@ -37,13 +37,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['919074692450','']
+global.owner = ['393516093315','']
 global.premium = ['919074692450','919074692450']
-global.botname = 'ABHISHEK-SER'
+global.botname = 'DARK NERO BOT'
 global.ownername = 'Abhishek Suresh'
 global.group1 = 'https://chat.whatsapp.com/B7QtwpUd2RMAVQ57KzosBj'
 global.group2 = 'https://chat.whatsapp.com/B7QtwpUd2RMAVQ57KzosBj'
-global.packname = 'ABHISHEK-SER'
+global.packname = 'DARK NERO'
 global.ytchannel = 'https://youtube.com/@comedymelodych8468'
 global.monayawal = '100000'
 global.darahawal = '100'
